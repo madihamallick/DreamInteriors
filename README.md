@@ -1,7 +1,7 @@
 <h1 align="center">
   Dream Interiors
 </h1>
-<p>Dream Interiors is Interior Decorators & Designers. We design and execute complete Luxury Interiors and Exteriors as per your taste and budget. With the team of Top Interior Designers. We align core values and effective use of space in the shaping of great designed interior spaces across the world.</p>
+<p>Dream Interiors has best Interior Decorators & Designers. We design and execute complete Luxury Interiors and Exteriors as per your taste and budget. With the team of Top Interior Designers. We align core values and effective use of space in the shaping of great designed interior spaces across the world.</p>
 
 <br>
 
