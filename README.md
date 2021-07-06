@@ -13,7 +13,7 @@
 <h1 align=center> Project Admins 👨🏻‍💻 </h1>
 <table>
 <tr>	
-    <td align="center"><a href="https://github.com/Manidipaaa"><img src="https://avatars.githubusercontent.com/u/70858710?v=4" width=150px height=150px /></a></br> <h4>Manidipaaa</h4></td>
-    <td align="center"><a href="https://github.com/madihamallick"><img src="https://avatars.githubusercontent.com/u/70858557?s=400&u=d233d17e8d678e7c41b9fe257527f39948a58802&v=4" width=150px height=150px /></a></br> <h4>Madiha Mallick</h4></td>
+    <td align="center"><a href="https://github.com/Manidipaaa"><img src="https://avatars.githubusercontent.com/u/70858710?v=4" width=150px height=150px /></a> <h4>Manidipaaa</h4></td>
+    <td align="center"><a href="https://github.com/madihamallick"><img src="https://avatars.githubusercontent.com/u/70858557?s=400&u=d233d17e8d678e7c41b9fe257527f39948a58802&v=4" width=150px height=150px /></a><h4>Madiha Mallick</h4></td>
   </tr>
 </table>
