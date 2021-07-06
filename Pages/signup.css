@@ -1,0 +1,56 @@
+*{margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(../Images/1.jpeg);
+	background-size: cover;
+}
+.wrap1{
+	max-width: 1170px;
+	margin: 0 15px;
+	padding:0 350px;
+}
+input[type=text]{
+	display:block;
+	padding:0 15px;
+	width: 100%;
+	font-size:30px;
+	border:5px solid grey;
+	margin: 5px 15px;
+	color: black;
+
+
+}
+input[type=password]{
+	display:block;
+	padding:0 15px;
+	width:100%;
+	font-size:30px;
+	border:5px solid grey;
+	margin: 5px 15px;
+	color: black;
+
+}
+input[type=submit]{
+	display:block;
+	padding:0 15px;
+	width: 100%;
+	font-size:30px;
+	border:5px solid grey;
+	margin: 5px 15px;
+	
+	color: black;
+
+}
+label{
+	color: black;
+	font-size: 25px;
+
+}
+.left h1{
+	color: black;
+	font-size: 35px;
+	text-align: center;
+	padding: 25px;
+	font-family: 'Lobster', cursive;
+}

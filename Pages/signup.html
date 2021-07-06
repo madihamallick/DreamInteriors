@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head><script>
+	function FormData()
+	{
+		var fname= document.forms["SIGNIN"]["fname"];
+		var lname= document.forms["SIGNIN"]["lname"];
+		var address= document.forms["SIGNIN"]["address"];
+		var phone= document.forms["SIGNIN"]["phone number"];
+		var email= document.forms["SIGNIN"]["email"];
+		var password= document.forms["SIGNIN"]["password"];
+		if(fname.value==""){
+			window.alert('Please enter your first name');
+			fname.focus();
+			return false;}
+		if(lname.value==""){
+			window.alert('Please enter your last name');
+			lname.focus();
+			return false;}
+			if(address.value==""){
+			window.alert('Please enter your address');
+			address.focus();
+			return false;}
+			if(phone.value==""){
+			window.alert('Please enter your phone number');
+			phone.focus();
+			return false;}	
+			if(email.value==""){
+			window.alert('Please enter your email');
+			email.focus();
+			return false;}
+			if(password.value==""){
+			window.alert('Please enter your password');
+			password.focus();
+			return false;}
+			return true;
+	}
+</script>
+	<title>Sign In</title>
+	<link rel="stylesheet" type="text/css" href="signup.css">
+</head>
+<body>
+	<header>
+		<div class="left"><h1>Become A Part Of Our Family!</h1></div>
+	</header>
+        <form name="SIGNIN" action="mmid.html" onsubmit="return FormData()" method="post">
+		<div class="wrap1">
+		<input type="text" name="fname" placeholder="Enter your first name">
+		<label>Enter Your First Name</label><br>
+		<input type="text" name="lname" placeholder="Enter your last name">
+		<label>Enter Your Last Name</label><br>
+		<input type="text" name="address" placeholder="Enter your address">
+		<label>Enter Your Address</label><br>
+		<input type="text" name="phone number" placeholder="Enter your phone number">
+		<label>Enter Your Phone Number</label><br>
+		<input type="text" name="email" placeholder="Enter Your Email">
+		<label>Enter Your Email</label><br>
+		<input type="password" name="password" placeholder="Enter your password">
+		<label>Enter Your Password</label><br>
+	    <input type="submit" name="submit" value="submit">
+	    </div>
+	</form>
+
+</body>
+</html>

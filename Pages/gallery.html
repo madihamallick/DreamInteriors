@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="gallery.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<title>Gallery</title><h1>Explore Our Work-</h1>
+</head>
+<body>
+	<div id="gallery">
+		<div class="wrap">
+		<div id="panel">
+			<img id="largeImage" src="../Images/image_40_large.jpeg" alt="1st image description" />
+			<div id="description>1st image description"></div>
+		</div>
+		<div id="thumbs">
+			 <img src="../Images/image_40_thumb.jpeg" alt="1st image description"/>
+	         <img src="../Images/image_38_thumb.jpeg" alt="2nd image description"/>
+	         <img src="../Images/image_39_thumb.jpeg" alt="3rd image description"/>
+	         <img src="../Images/image_44_thumb.jpeg" alt="4th image description"/>
+	         <img src="../Images/image_41_thumb.jpeg" alt="5th image description"/>
+	         <img src=".../Images/image_42_thumb.jpeg" alt="6th image description"/>
+			 <img src="../Images/image_43_thumb.jpeg" alt="7th image description"/>
+		     <img src="../Images/image_37_thumb.jpeg" alt="8th image description"/>
+	</div>
+</div>
+</div>
+<script>
+	$('#thumbs').delegate('img','click', function(){
+		$('#largeImage').attr('src',$(this).attr('src').replace('thumb','large'));
+		$('#description').html($(this).attr('alt'));
+	});
+</script>
+
+</body>
+</html>
