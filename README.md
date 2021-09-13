@@ -1,6 +1,6 @@
 <h1 align=center> Login Preview 🧐 </h1>
   <p align="center">
-      <img src="https://user-images.githubusercontent.com/70858557/133094165-47556030-2173-4c67-9e77-dc2b29518cf3.gif" height="250px" width="600px">
+      <img src="https://user-images.githubusercontent.com/70858557/133094165-47556030-2173-4c67-9e77-dc2b29518cf3.gif" height="500px" width="1000px">
 
 
 <h1 align="center">
