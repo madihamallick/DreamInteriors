@@ -1,3 +1,8 @@
+<h1 align=center> Login Preview 🧐 </h1>
+  <p align="center">
+      <img src="https://user-images.githubusercontent.com/70858557/133094165-47556030-2173-4c67-9e77-dc2b29518cf3.gif" height="250px" width="600px">
+
+
 <h1 align="center">
   Dream Interiors
 </h1>
@@ -9,11 +14,3 @@
   <p align="center">
     <img src="https://user-images.githubusercontent.com/70858557/124554550-b8434400-de53-11eb-8591-6ab0dea8c1e9.gif" height="250px" width="600px">
   
-<br><br>
-<h1 align=center> Project Admins 👨🏻‍💻 </h1>
-<table>
-<tr>	
-    <td align="center"><a href="https://github.com/Manidipaaa"><img src="https://avatars.githubusercontent.com/u/70858710?v=4" width=150px height=150px /></a> <h4>Manidipaaa</h4></td>
-    <td align="center"><a href="https://github.com/madihamallick"><img src="https://avatars.githubusercontent.com/u/70858557?s=400&u=d233d17e8d678e7c41b9fe257527f39948a58802&v=4" width=150px height=150px /></a><h4>Madiha Mallick</h4></td>
-  </tr>
-</table>
